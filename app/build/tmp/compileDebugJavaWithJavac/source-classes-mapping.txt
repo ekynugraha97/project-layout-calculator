@@ -1,0 +1,4 @@
+com/jnsoftit/anew/BuildConfig.java
+ com.jnsoftit.anew.BuildConfig
+com/jnsoftit/anew/MainActivity.java
+ com.jnsoftit.anew.MainActivity
